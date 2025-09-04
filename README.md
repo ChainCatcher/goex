@@ -1,6 +1,6 @@
 ### Introduction
 * Unified and standardize the interfaces of various cryptocurrency trading platforms.
-* Support Exchanges List [ OKX,Binance,Bitget ]
+* Support Exchanges List [ OKX,Binance ]
 
 ![goex](goex_struct.png)
 
